@@ -1,0 +1,19 @@
+{
+  "name": "blob",
+  "main": "Blob.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Objectway/Blob.js",
+  "authors": [
+    "Andrea Paciolla <andrea.paciolla@objectway.it>"
+  ],
+  "description": "polyfill for blob constructor",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
